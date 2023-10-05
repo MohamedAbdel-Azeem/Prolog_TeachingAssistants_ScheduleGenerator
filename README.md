@@ -27,4 +27,4 @@ The program uses the following Prolog predicates:
 - day_schedule/4: Generates a schedule for a single day.
 - week_schedule/4: Generates a schedule for the entire week.
 
-## The program can be easily modified to support additional constraints, such as TA preferences or lab conflicts. To do this, you would simply need to add new predicates to the program that check for and enforce these constraints.
+The program can be easily modified to support additional constraints, such as TA preferences or lab conflicts. To do this, you would simply need to add new predicates to the program that check for and enforce these constraints.
